@@ -30,7 +30,7 @@
 
 
 
-# **All the District in the Datasets are: **
+# **All the District in the Datasets are:**
 - Baramula
 - Srinagar
 - Pulwama
