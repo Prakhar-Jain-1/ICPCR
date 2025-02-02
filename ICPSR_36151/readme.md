@@ -1,0 +1,406 @@
+### DS0002
+- The more detailed data but same as ds0001 dataset.
+- It includes more variables to work with as compared to DS0001, it essentially follows the same questionnaire. 
+### DS0003
+- Same questionnaire as first two, but focuses on female centric topic in the data. For example the "Belief: 1st milk after birth good for baby".
+- Focuses on the independence of women. ("Whom do you ask permission to visit health centre: Husband")
+- Birth of children and their health.
+### DS0004
+- Children and the ages with mortality.
+### DS0005
+- Medical Facilities in the region and interviewn based on that thing only. 
+- Discusses various position within the facility.
+### DS0006
+- Facilities provided by the medical institute.
+    - medicines and tests provided.
+### DS0007
+- Migrated workers relation to the household they come form.
+### DS0009
+- School and the facilities provided.
+### DS0010
+- Work and job, time worked.
+### DS0011
+- internal household dynamics
+### DS0012
+- all data till now, but in context of village.
+### DS0013
+- Pnachayat and religion
+### DS0014
+- Bureaucrats and Village.
+
+
+
+# **All the District in the Datasets are: **
+- Baramula
+- Srinagar
+- Pulwama
+- Rajauri
+- Jammu
+- Chamba
+- Kangra
+- Kullu
+- Mandi
+- Hamirpur
+- Bilaspur
+- Solan
+- Sirmaur
+- Shimla
+- Gurdaspur
+- Amritsar
+- Kapurthala
+- Jalandhar
+- Hoshiarpur
+- Nawanshahr
+- Rupnagar
+- Fatehgarh
+- Ludhiana
+- Moga
+- Firozpur
+- Sangrur
+- Patiala
+- Chandigarh
+- Dehradun
+- Bageshwar
+- Almora
+- Nainital
+- Udham Singh Nagar
+- Hardwar
+- Panchkula
+- Ambala
+- Yamunanagar
+- Kurukshetra
+- Kaithal
+- Karnal
+- Sonipat
+- Jind
+- Fatehabad
+- Hissar
+- Bhiwani
+- Rewari
+- Gurgaon
+- Faridabad
+- Delhi North West
+- Delhi North
+- Delhi North East
+- Delhi East
+- Delhi West
+- Delhi South West
+- Delhi South
+- Delhi
+- Bikaner
+- Churu
+- Jhunjhunu
+- Alwar
+- Bharatpur
+- Dhaulpur
+- Karauli
+- Sawai Madhopur
+- Dausa
+- Jaipur
+- Sikar
+- Nagaur
+- Jodhpur
+- Jalor
+- Pali
+- Ajmer
+- Bhilwara
+- Rajsamand
+- Udaipur
+- Chittaurgarh
+- Kota
+- Baran
+- Jhalawar
+- Saharanpur
+- Muzaffarnagar
+- Bijnor
+- Moradabad
+- Rampur
+- Jyotiva Phule Nagar
+- Meerut
+- Ghaziabad
+- Gautam Buddha Nagar
+- Hathras
+- Mathura
+- Agra
+- Budaun
+- Bareilly
+- Kheri
+- Sitapur
+- Lucknow
+- Farrukabad
+- Kannauj
+- Kanpur Dehat
+- Kanpur Nagar
+- Jhansi
+- Banda
+- Chitrakoot
+- Fatehpur
+- Kaushambi
+- Allahabad
+- Barabanki
+- Faizabad
+- Ambedkar Nagar
+- Sultanpur
+- Bahraich
+- Sharawasti
+- Siddharathnagar
+- Gorakhpur
+- Kushinagar
+- Deoria
+- Mau
+- Baliya
+- Ghazipur
+- Chandauli
+- Varanasi
+- Sant Ravidas Nagar
+- Purbi Champaran
+- Madhubani
+- Supaul
+- Purnia
+- Saharsa
+- Muzaffar Pur
+- Siwan
+- Saran
+- Bhagal Pur
+- Banka
+- Sheikhpura
+- Nalanda
+- Patna
+- Buxar
+- Kaimur (Bhabua)
+- Rohtas
+- Gaya
+- Sikkim
+- Arunachal
+- Nagaland
+- Manipur
+- Mizoram
+- Tripura
+- Meghalaya
+- Dhubri
+- Goalpara
+- Kamrup
+- Marigaon
+- nan
+- Tinsukia
+- Jorhat
+- Karbi Amglong
+- Cachar
+- Darjiling
+- Jalapiguri
+- Uttar Dinajpur
+- Maldah
+- Murshidabad
+- Birbhum
+- Barddhaman
+- Nadia
+- North 24 Parganas
+- Hugli
+- Bankura
+- Haora
+- Kolkata
+- South 24 Parganas
+- Palamu
+- Dhanbad
+- Bokaro
+- Ranchi
+- Pashchimi Singbhum
+- Purbi Singhbhum
+- Bargarh
+- Jharsuguda
+- Sambalpur
+- Sundargarh
+- Kendujhar
+- Mayurbhanj
+- Baleshwar
+- Bhadrak
+- Cuttack
+- Jajapur
+- Dhenkanal
+- Anugul
+- Nayagarh
+- Khordha
+- Puri
+- Ganjam
+- Gajapati
+- Kandhamal
+- Baudh
+- Sonapur
+- Balangir
+- Kalahandi
+- Rayagada
+- Nabarangapur
+- Koraput
+- Malkangiri
+- Koriya
+- Sarguja
+- Jashpur
+- Raigarh
+- Korba
+- Janjgir
+- Bilas Pur
+- Kawardha
+- Rajnandgaon
+- Durg
+- Raipur
+- Mahasamund
+- Dhamtari
+- Kanker
+- Bastar
+- Sheopur
+- Morena
+- Gwalior
+- Datia
+- Tikamgarh
+- Chhatarpur
+- Panna
+- Damoh
+- Satna
+- Umaria
+- Shahdol
+- Sidhi
+- Ratlam
+- Ujjain
+- Shajapur
+- Dewas
+- Dhar
+- Indore
+- Barwani
+- West Nimar
+- East Nimar
+- Rajgarh
+- Bhopal
+- Betul
+- Harda
+- Hoshangabad
+- Katni
+- Jabalpur
+- Dindori
+- Mandla
+- Seoni
+- Kachchh
+- Patan
+- Mahesana
+- Gandhinagar
+- Ahmedabad
+- Surendranagar
+- Rajkot
+- Jamnagar
+- Junagadh
+- Amreli
+- Bhavnagar
+- Anand
+- Kheda
+- Vadodara
+- Narmada
+- Bharuch
+- Surat
+- Daman & Diu
+- Dadra & Nagar Haveli
+- Nandurbar
+- Dhule
+- Jalgaon
+- Akola
+- Washim
+- Amarawti
+- Wardha
+- Nagpur
+- Bhandara
+- Gondiya
+- Chandrapur
+- Yavatmal
+- Nanded
+- Hingoli
+- Parbhani
+- Jalna
+- Nasik
+- Thane
+- Mumbai (suburban)
+- Pune
+- Ahmadnagar
+- Bid
+- Osmanabad
+- Solapur
+- Satara
+- Ratnagiri
+- Kolhapur
+- Adilabad
+- Nizamabad
+- Karimnagar
+- Medak
+- Hyderabad
+- Rangareddi
+- Mahbubnagar
+- Khammam
+- Visakhapatnam
+- East Godavari
+- West Godavari
+- Krishna
+- Guntur
+- Prakasam
+- Nellore
+- Cuddapah
+- Kurnool
+- Anantapur
+- Chittoor
+- Belgaum
+- Bagalkot
+- Bijapur
+- Bidar
+- Raichur
+- Koppal
+- Gadag
+- Dharwad
+- Uttar Kannad
+- Haveri
+- Bellary
+- Chitradurga
+- Davanagere
+- Shimoga
+- Udupi
+- Chikmagalur
+- Tumkur
+- Kolar
+- Bangalore
+- Bangalore Rural
+- Mandya
+- Dakshin Kannada
+- Kodagu
+- Mysore
+- Chamarajanagar
+- North Goa
+- South Goa
+- Kannur
+- Kozhikode
+- Malappuram
+- Palakkad
+- Thrissur
+- Ernakulam
+- Idukki
+- Kottayam
+- Alappuzha
+- Pathanamthitta
+- Kollam
+- Thiruvananthapuram
+- Thiruvallur
+- Chennai
+- Kancheepuram
+- Vellore
+- Dharampuri
+- Tiruvannamalai
+- Namakkal
+- Erode
+- Coimbatore
+- Dindigul
+- Karur
+- Tiruchchirappalli
+- Ariyalur
+- Perambalur
+- Sivaganga
+- Madurai
+- Theni
+- Ramanathapuram
+- Thoothukkudi
+- Tirunelveli
+- Kanniyakumari
+- Pondicherry
