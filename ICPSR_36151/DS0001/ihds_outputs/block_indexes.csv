@@ -1,0 +1,12 @@
+block,indices
+Farm,Farm_PC1
+Non_farm,"Non_farm_PC1,Non_farm_PC2"
+Teacher_and_school,Teacher_and_school_PC1
+College_school,"College_school_PC1,College_school_PC2"
+Child_and_school,"Child_and_school_PC1,Child_and_school_PC2"
+Short_term_Morbidity,"Short_term_Morbidity_PC1,Short_term_Morbidity_PC2"
+Major_Morbidity,"Major_Morbidity_PC1,Major_Morbidity_PC2"
+Anthropometry,Anthropometry_PC1
+WorkSpace,"WorkSpace_PC1,WorkSpace_PC2"
+WSEARN,"WSEARN_PC1,WSEARN_PC2"
+Income_Household,"Income_Household_PC1,Income_Household_PC2"

@@ -1,0 +1,6 @@
+Target: INCOMEPC
+Rows used: 46893
+Blocks with indices: ['Farm', 'Non_farm', 'Teacher_and_school', 'College_school', 'Child_and_school', 'Short_term_Morbidity', 'Major_Morbidity', 'Anthropometry', 'WorkSpace', 'WSEARN', 'Income_Household']
+Fallback variables kept: ['ED8_num', 'ED13_num']
+R^2: 0.2103
+RMSE: 31138.5615
